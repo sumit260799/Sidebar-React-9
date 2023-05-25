@@ -1,6 +1,6 @@
 import { FaHome, FaFolderOpen, FaCalendarAlt } from "react-icons/fa";
 import { RiTeamFill } from "react-icons/ri";
-import { GrDocument } from "react-icons/gr";
+import { HiDocument } from "react-icons/hi";
 
 import { BsYoutube, BsInstagram, BsFacebook, BsLinkedin } from "react-icons/bs";
 
@@ -33,7 +33,7 @@ export const links = [
     id: 5,
     url: "./document",
     text: "document",
-    icon: <GrDocument />,
+    icon: <HiDocument />,
   },
 ];
 
@@ -55,7 +55,7 @@ export const social = [
   },
   {
     id: 4,
-    link: "https://linkedin.com",
+    link: "https://www.linkedin.com/in/sumit-das-b06730253/",
     icon: <BsLinkedin />,
   },
 ];
